@@ -9,3 +9,6 @@ country_wise_latest.csv → Situação mais recente por país (casos, mortes, re
 usa_county_wise.csv → Evolução da COVID-19 por condados nos EUA.
 worldometer_data.csv → Dados adicionais do Worldometer (população, testagem, gravidade).
 full_grouped.csv → Séries temporais globais e por país.
+
+Link do kaggle com os datasets
+https://www.kaggle.com/datasets/imdevskp/corona-virus-report
