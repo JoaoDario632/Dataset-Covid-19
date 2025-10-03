@@ -124,4 +124,4 @@ elif page == "📖 Insights e Conclusões":
     
     ➡️ Esse tipo de análise comparativa e regionalizada é essencial para subsidiar decisões em saúde pública, orientar estratégias de contenção e auxiliar na preparação para futuros cenários epidemiológicos.
     
-    """)
+    """) 
